@@ -1,4 +1,4 @@
-# sample_flutter_app
+# TextMate flutter app
 
 First Flutter app
 
