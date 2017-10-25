@@ -111,7 +111,7 @@ class ChatMessage extends StatelessWidget {
   final AnimationController animationController;
   @override
   Widget build(BuildContext context) {
-    return new SizeTransition(                                    
+    return new SizeTransition(
         sizeFactor: new CurvedAnimation(
             parent: animationController,
             curve: Curves.easeOut
